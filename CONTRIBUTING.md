@@ -1,5 +1,3 @@
-# Documentation
+# Contributing to automated mlops orchestrator
 
-Generated documentation for code-pipeline.
-
-# Touch update: 1760920326
+We welcome contributions! Please follow the standard Pull Request process. Ensure all code passes linting and unit tests.
